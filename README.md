@@ -1,4 +1,4 @@
-# webfall2025javier garcia lopez is my name, curry is my game
+# webfall2025 milo is my name, curry is my game
 This is a collection of web pages I made for class in 8th grade
 <h1>Welsome to my web class portfolio</h1>
 <ul>
