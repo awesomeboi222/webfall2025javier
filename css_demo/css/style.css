@@ -1,0 +1,47 @@
+body {
+    background-color: aquamarine;
+}
+.container{
+    background-color: rgb(255, 0, 0);
+}
+  #green-text {
+            color: green;
+        }
+
+        h2 {
+            text-align: center;
+            color: darkmagenta;
+        }
+
+        .test {
+            color:brown;
+            font-family:fantasy;
+            
+        }
+
+        .nav {
+            list-style:none;
+            text-align: center;
+        }
+
+        .nav li {
+            display:inline;
+            margin-right: 20px;
+            background: white;
+        }
+
+        .copy {
+            text-align: center;
+            background-color: blueviolet;
+        }
+
+        #span1 {
+            color: rgb(204, 132, 24);
+        }
+
+        #span2 {
+            font-size: x-large;
+            font-family: 'Aguafina Script';font-size: 22px;
+        }
+
+
